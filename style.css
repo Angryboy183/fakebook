@@ -1,0 +1,150 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(white,#e1e1e4,#d3d3d9);
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1e1e1e;
+    font-size: 12px;
+    height:100vh
+}
+
+body center h4{
+    margin: 22% auto 20% auto;
+    font-size: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #6a6a6a;
+}
+
+body .fbLogo{
+    width: 14%;
+    margin: 0% auto 20% auto;
+}
+
+.row{
+    width: 90%;
+}
+
+.col-sm-12{
+    margin: 2% auto 1% auto;
+    padding: 2% ;
+}
+
+.input{
+    border-radius: 2px;
+    border-width: 1px;
+    border-style:ridge;
+    border-color: #979595;
+}
+
+.row .button{
+    width: 100%;
+    border: #4267B2 solid 1px;
+    background-color: #4267B2;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fbPassword{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font: weight 500px;
+}
+
+.under{
+    margin: 30% auto 4% auto;
+    width: 90%;
+}
+
+.newAccount{
+    border-radius: 2px;
+    border-width: 1px;
+    border-style:ridge;
+    border-color: #979595;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 525;
+    background-color: transparent;
+    margin-bottom: 3%;
+}
+
+.under img{
+    width: 17%;
+    /* margin: 3% auto 1% auto; */
+}
+
+@media screen and (min-width:768px) {
+    body{
+        margin: 0;
+        padding: 2% 25% 20% 25%;
+        background-image: linear-gradient(white,#e1e1e4,#d3d3d9);
+        font-family: Arial, Helvetica, sans-serif;
+        color: #1e1e1e;
+        font-size: 12px;
+        height: 100%;
+    }  
+    
+    
+body center h4{
+    margin: 8% auto 7% auto;
+    font-size: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #6a6a6a;
+}
+
+body .fbLogo{
+    width: 14%;
+    margin: 0% auto 5% auto;
+}
+
+.row{
+    width: 90%;
+}
+
+.col-sm-12{
+    margin: 2% auto 1% auto;
+    padding: 2% ;
+}
+
+.input{
+    border-radius: 2px;
+    border-width: 1px;
+    border-style:ridge;
+    border-color: #979595;
+}
+
+.row .button{
+    width: 100%;
+    border: #4267B2 solid 1px;
+    background-color: #4267B2;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fbPassword{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font: weight 500px;
+}
+
+.under{
+    margin: 10% auto 2% auto;
+    width: 90%;
+}
+
+.newAccount{
+    border-radius: 2px;
+    border-width: 1px;
+    border-style:ridge;
+    border-color: #979595;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 525;
+    background-color: transparent;
+    margin-bottom: 3%;
+}
+
+.under img{
+    width: 17%;
+    /* margin: 3% auto 1% auto; */
+}
+}
